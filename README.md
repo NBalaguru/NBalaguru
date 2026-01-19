@@ -1,4 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm N Balaguru
+
+🎓 B.Tech CSE Student  
+💻 Java | Git | GitHub  
+☁️ Interested in DevOps & Cloud  
+
+## 🔧 Skills
+- Java
+- Git & GitHub
+- Basics of Linux
+- Cloud fundamentals
+
+## 📂 Projects
+- Java Practice Programs
+- GitHub Version Control Practice
+
+## 📫 Contact
+- GitHub: https://github.com/NBalaguru
+
 
 <!--
 **NBalaguru/NBalaguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
