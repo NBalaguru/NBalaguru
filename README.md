@@ -10,9 +10,7 @@
 - Basics of Linux
 - Cloud fundamentals
 
-## 📂 Projects
-- Java Practice Programs
-- GitHub Version Control Practice
+
 
 ## 📫 Contact
 - GitHub: https://github.com/NBalaguru
