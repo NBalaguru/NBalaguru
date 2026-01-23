@@ -14,6 +14,7 @@
 
 ## 📫 Contact
 - GitHub: https://github.com/NBalaguru
+- Email: nbalaguru0718@gmail.com
 
 
 <!--
