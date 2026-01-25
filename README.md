@@ -1,33 +1,123 @@
-# Hi 👋 I'm N Balaguru
+👋 Hi, I'm N Balaguru
 
-🎓 B.Tech CSE Student  
-💻 Java | Git | GitHub  
-☁️ Interested in DevOps & Cloud  
+🎓 Student | 💻 Aspiring Software Engineer | ☁️ Cloud & DevOps Learner
 
-## 🔧 Skills
-- Java
-- Git & GitHub
-- Basics of Linux
-- Cloud fundamentals
+Welcome to my GitHub!
+This repository represents my learning journey, skills, projects, and technical growth in software development, cloud computing, and DevOps.
 
+🚀 About Me
 
+🎓 Currently pursuing studies in Computer Science / IT
 
-## 📫 Contact
-- GitHub: https://github.com/NBalaguru
-- Email: nbalaguru0718@gmail.com
+🌱 Learning Cloud Computing, DevOps, and Full Stack Development
 
+💡 Interested in Software Engineering, Cloud Infrastructure, and System Design
 
-<!--
-**NBalaguru/NBalaguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Building projects to improve real-world problem-solving skills
 
-Here are some ideas to get you started:
+🎯 Career Goal: To become a Skilled Software Engineer / Cloud Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Skills
+💻 Programming Languages
+
+Java
+
+Python
+
+C
+
+JavaScript
+
+🌐 Web Development
+
+HTML
+
+CSS
+
+React.js
+
+Node.js (Basics)
+
+☁️ Cloud & DevOps
+
+Google Cloud Platform (GCP)
+
+Firebase
+
+Git & GitHub
+
+Linux
+
+Docker (Learning)
+
+CI/CD (Learning)
+
+📊 Other Skills
+
+Data Structures & Algorithms
+
+Database Management (MySQL)
+
+Software Engineering Concepts
+
+Problem Solving
+
+📂 Repository Content
+
+This GitHub includes:
+
+📁 Academic projects
+
+📁 Practice programs
+
+📁 Cloud & DevOps experiments
+
+📁 Mini projects
+
+📁 Notes & documentation
+
+📁 Assignments
+
+📁 Learning resources
+
+🧪 Projects
+
+Some of the areas I work on:
+
+🌐 Web Applications
+
+☁️ Cloud-based Systems
+
+📊 Dashboards
+
+🛒 E-commerce / Cart Systems
+
+🧠 Algorithm-based projects
+
+(Detailed projects available in repositories)
+
+📈 Learning Path
+
+✔ Programming Fundamentals
+
+✔ Web Development Basics
+
+✔ Git & GitHub
+
+✔ Linux Basics
+
+🔄 Cloud Computing
+
+🔄 DevOps Tools
+
+🔄 System Design
+
+🔄 Advanced DSA
+
+🌐 Connect With Me
+
+GitHub: https://github.com/your-username
+
+LinkedIn: https://linkedin.com/in/your-profile
+
+Portfolio: Coming Soon 🚧
