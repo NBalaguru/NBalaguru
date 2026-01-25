@@ -114,10 +114,4 @@ Some of the areas I work on:
 
 🔄 Advanced DSA
 
-🌐 Connect With Me
 
-GitHub: https://github.com/your-username
-
-LinkedIn: https://linkedin.com/in/your-profile
-
-Portfolio: Coming Soon 🚧
